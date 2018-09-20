@@ -39,6 +39,6 @@ If you are not already signed up for Watson Studio, [sign up here](https://www.i
 ![Create Notebook](images/ss4.png)
 
 3.4 Click on **Create Notebook**. After a few seconds the notebook should be loaded
-![Notebook loaded](images/ss5.png)
+![Notebook loaded](images/ss4.5.png)
 
 3.5 Follow the instructions in the notebook to complete the exercise.
