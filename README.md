@@ -34,7 +34,7 @@ If you are not already signed up for Watson Studio, [sign up here](https://www.i
 
 3.3 Name the Notebook *Credit Card Fraud Detection Demo* . Select **From URL** and copy the following URL into the **Notebook URL** field
 
-```https://raw.githubusercontent.com/djccarew/timeseries-rnn-lab-part1/master/oilpricernn.ipynb```
+```https://raw.githubusercontent.com/djccarew/ccfraud-keras-lab-part1/master/ccfraud-keras-part1.ipynb```
 
 ![Create Notebook](images/ss4.png)
 
